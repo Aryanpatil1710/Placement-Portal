@@ -1,5 +1,5 @@
 {
-  "name": "job-portal",
+  "name": "placement-portal",
   "version": "1.0.0",
   "description": "job portal project",
   "main": "serevr.js",
@@ -8,7 +8,7 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "author": "TEchinfoyt",
+  "author": "Aryan & Kirti",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
